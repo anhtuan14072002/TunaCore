@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.kyrylokuzyk.primetween": "file:../Assets/Plugins/PrimeTween/internal/com.kyrylokuzyk.primetween.tgz",
+    "com.tuna.comon": "file:../../Core/com.tuna.comon",
+    "com.tuna.config": "file:../../Core/com.tuna.config",
+    "com.tuna.core": "file:../../Core/com.tuna.core",
+    "com.tuna.custom": "file:../../Core/com.tuna.custom",
+    "com.tuna.data": "file:../../Core/com.tuna.data",
+    "com.tuna.package-installer": "file:../../Core/com.tuna.package-installer",
+    "com.tuna.ui": "file:../../Core/com.tuna.ui",
+    "com.tuna.v": "file:../../Core/com.tuna.v",
     "com.unity.ai.navigation": "2.0.12",
     "com.unity.collab-proxy": "2.12.4",
     "com.unity.ide.rider": "3.0.39",

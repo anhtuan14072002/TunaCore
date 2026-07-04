@@ -1,5 +1,66 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e5acc106ee196bc5a32fb14cdf2987b0f96d11e0"
+    },
+    "com.kyrylokuzyk.primetween": {
+      "version": "file:../Assets/Plugins/PrimeTween/internal/com.kyrylokuzyk.primetween.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.tuna.comon": {
+      "version": "file:../../Core/com.tuna.comon",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.tuna.config": {
+      "version": "file:../../Core/com.tuna.config",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.tuna.core": {
+      "version": "file:../../Core/com.tuna.core",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.tuna.custom": {
+      "version": "file:../../Core/com.tuna.custom",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.tuna.data": {
+      "version": "file:../../Core/com.tuna.data",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.tuna.package-installer": {
+      "version": "file:../../Core/com.tuna.package-installer",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.tuna.ui": {
+      "version": "file:../../Core/com.tuna.ui",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.tuna.v": {
+      "version": "file:../../Core/com.tuna.v",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.12",
       "depth": 0,
