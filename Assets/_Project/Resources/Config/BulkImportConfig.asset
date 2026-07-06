@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c46ed672292249fa8d244dd2e7a8541, type: 3}
+  m_Name: BulkImportConfig
+  m_EditorClassIdentifier: 
+  data:
+    items:
+      keys: 0000000001000000
+      values:
+      - height: 25
+        cells:
+          keys: 000000000200000001000000
+          values:
+          - rawValue: 
+            value: https://docs.google.com/spreadsheets/d/1H_vCTNrGrXBTd4yol_WeoNg6baQHEcYBviSahtRPqbU/edit?gid=0#gid=0
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: Skill
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: Assets/_Project/Resources/Config
+            UnityObject: {fileID: 0}
+            UOs: []
+      - height: 25
+        cells:
+          keys: 000000000200000001000000
+          values:
+          - rawValue: 
+            value: https://docs.google.com/spreadsheets/d/12lWfG8KZYJ_3dfEGeZCiBuN5eE-I0u8TEc99ZHYfs6o/edit?gid=1776609598#gid=1776609598
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: RateSummon
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: Assets/_Project/Resources/Config
+            UnityObject: {fileID: 0}
+            UOs: []
+  columnHeaders:
+    items:
+      keys: 00000000010000000200000003000000
+      values:
+      - Width: 100
+        Alias: SourceUrl
+        Type: 0
+        Field: 
+      - Width: 100
+        Alias: SaveTo
+        Type: 0
+        Field: 
+      - Width: 100
+        Alias: SheetName
+        Type: 0
+        Field: 
+      - Width: 100
+        Alias: Type
+        Type: 0
+        Field: 
+  VisualHeaders: 1

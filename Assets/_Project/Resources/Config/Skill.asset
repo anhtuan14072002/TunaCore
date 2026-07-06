@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c46ed672292249fa8d244dd2e7a8541, type: 3}
+  m_Name: Skill
+  m_EditorClassIdentifier: 
+  data:
+    items:
+      keys: 00000000010000000200000003000000
+      values:
+      - height: 25
+        cells:
+          keys: 0000000001000000020000000300000004000000
+          values:
+          - rawValue: 
+            value: ID
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: Name
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: Type
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: Damage
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: Damage
+            UnityObject: {fileID: 0}
+            UOs: []
+      - height: 25
+        cells:
+          keys: 0000000001000000020000000300000004000000
+          values:
+          - rawValue: 
+            value: 1000
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: A
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: D
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: 1
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: 1.1
+            UnityObject: {fileID: 0}
+            UOs: []
+      - height: 25
+        cells:
+          keys: 0000000001000000020000000300000004000000
+          values:
+          - rawValue: 
+            value: 1001
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: B
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: E
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: 2
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: 1.2
+            UnityObject: {fileID: 0}
+            UOs: []
+      - height: 25
+        cells:
+          keys: 0000000001000000020000000300000004000000
+          values:
+          - rawValue: 
+            value: 1002
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: C
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: F
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: 3
+            UnityObject: {fileID: 0}
+            UOs: []
+          - rawValue: 
+            value: 1.3
+            UnityObject: {fileID: 0}
+            UOs: []
+  columnHeaders:
+    items:
+      keys: 
+      values: []
+  VisualHeaders: 0
